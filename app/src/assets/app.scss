@@ -1,0 +1,8 @@
+// Global
+@import "variables.scss";
+@import "mixins.scss";
+@import "typography.scss";
+
+// Components
+@import "../components/Flashcard/flashcard.scss";
+@import "../components/FlashcardSlider/flashcardSlider.scss";

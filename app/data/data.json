@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is this?",
+    "answer": "This is a quick 'flashcard' POC for my Playlab assessment, also an opportunity to explore Remix!"
+  },
+  {
+    "question": "What did you accomplish in this POC?",
+    "answer": "I created a simple Remix app, utilized mock data, added SASS, and built a few components. Didn't explore Remix's routing but eager to delve deeper."
+  },
+  {
+    "question": "What excited you about Playlab?",
+    "answer": "To be honest, I wouldn't be where I am without access to quality education. It's a game changer and I want to use my skills to help make lives easier for educators."
+  }
+]

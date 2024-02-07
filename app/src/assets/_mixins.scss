@@ -1,0 +1,12 @@
+/* Mixins: Resets */
+@mixin button-reset {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+@mixin container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: $sp-lg;
+}

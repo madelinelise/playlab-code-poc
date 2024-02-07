@@ -1,0 +1,27 @@
+.flashcard {
+  margin: 0 auto;
+  position: relative;
+  width: 500px;
+  height: 300px;
+
+  button {
+    @include button-reset;
+    background-color: $color-white;
+    border: 1px solid $color-dark-gray;
+    border-radius: 4px;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+
+  .flashcard__front {
+    @include font-source-sans-bold;
+    font-size: 2rem;
+  }
+
+  .flashcard__back {
+    @include font-source-serif;
+    font-size: 1.5rem;
+  }
+}
