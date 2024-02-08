@@ -1,6 +1,6 @@
 {
   "name": "madeline-remix-app",
-  "private": true,
+  "private": false,
   "sideEffects": false,
   "homepage": "https://madelinelise.github.io/playlab-code-poc/",
   "type": "module",
